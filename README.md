@@ -4,6 +4,10 @@ Pulling from multiple sources of data, this project aims to answer the question 
 ## Hypothesis
 Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues.
 
+Alternative Hypothesis: Individuals with comorbidities die less from covid than those with no known health issues.
+
+Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues.
+
 ## Technologies
 A brief description of the technologies we're using:
 
